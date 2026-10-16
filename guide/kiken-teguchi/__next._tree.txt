@@ -11,4 +11,4 @@
 :HL["/images/kv-atobarai-kaitori-kiken.png","image"]
 :HL["/images/kv-sakibarai-shohinken-nashi.png","image"]
 :HL["/images/kv-dokuritsukei-vs-oote.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guide","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kiken-teguchi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"h8XOvkE7pXsSr_sIqaXpl"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guide","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kiken-teguchi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-vRl10K48qRSgsDzG8MHv"}
