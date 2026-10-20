@@ -12,4 +12,4 @@
 :HL["/images/kv-gift-card-genkinka.png","image"]
 :HL["/images/kv-hearing-nashi-sakibarai.png","image"]
 :HL["/images/kv-saishin-sakibarai-4sha.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"CSv_vxCfy9hHtviK9KcVj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"dl-aO9F-ZSLfkPPGaoRwN"}
