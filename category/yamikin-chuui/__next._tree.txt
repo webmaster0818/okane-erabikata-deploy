@@ -8,4 +8,4 @@
 :HL["/images/cover-5.png","image"]
 :HL["/images/cover-3.png","image"]
 :HL["/images/cover-1.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"yamikin-chuui","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KujxO4OpAeRUpc6E6I60H"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"yamikin-chuui","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"qzOOIjHIAn3e_ydVD1Dhs"}
