@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>https://okane-erabikata.com/guide/haraenai/</loc>
-<lastmod>2026-11-02T00:00:00.000Z</lastmod>
+<lastmod>2026-11-03T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -116,7 +116,7 @@
 </url>
 <url>
 <loc>https://okane-erabikata.com/category/kouteki-shien/</loc>
-<lastmod>2026-11-02T00:00:00.000Z</lastmod>
+<lastmod>2026-11-03T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -146,7 +146,7 @@
 </url>
 <url>
 <loc>https://okane-erabikata.com/category/saimu-seiri/</loc>
-<lastmod>2026-10-30T00:00:00.000Z</lastmod>
+<lastmod>2026-11-03T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
 </url>
@@ -1323,6 +1323,18 @@
 <url>
 <loc>https://okane-erabikata.com/articles/kaigo-hokenryo-tainou/</loc>
 <lastmod>2026-11-02T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://okane-erabikata.com/articles/card-loan-entai/</loc>
+<lastmod>2026-11-03T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://okane-erabikata.com/articles/atobarai-haraenai/</loc>
+<lastmod>2026-11-03T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
 </url>
